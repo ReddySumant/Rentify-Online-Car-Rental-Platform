@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    margin-top: 8vh;
+}
+
+#footer-container{
+    display: flex; 
+    justify-content:center; 
+    align-items: center; 
+    background-color: #E9EcEF; 
+    padding: 1.5rem; 
+    gap: 40vw;
+}
+
+#footer-address{
+    font-weight: 700;
+}
+
+.footer-icons{
+    width: 1.5rem; 
+    height: 1.5rem;
+}
